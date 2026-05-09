@@ -24,6 +24,8 @@ If your hometown or country has a traditional food (especially if it's your favo
 - [South America](#south-america)
 - [Europe](#europe)
 - [Africa](#africa)
+  - [Kenya](#kenya)
+  - [Nigeria](#nigeria)
 - [Asia](#asia)
   - [India](#india)
   - [Indonesia](#indonesia)
@@ -53,7 +55,6 @@ Griot (pronounced "gree-oh") is a popular Haitian dish. It is pork marinated in 
 
 ## Europe
 
-## Africa
 ## Africa
 
 ### Kenya
