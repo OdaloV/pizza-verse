@@ -63,7 +63,7 @@ Griot (pronounced "gree-oh") is a popular Haitian dish. It is pork marinated in 
 
 Pilau is a fragrant and flavorful spiced rice dish that is a staple of Kenyan cuisine, particularly along the Swahili Coast. It is made by cooking rice in a rich broth seasoned with a blend of spices including cumin, coriander, cardamom, cinnamon, and black pepper. The dish is typically prepared with beef, chicken, or goat meat, and is often garnished with onions.
 
-<img src="./images/pilau-kenya.jpg" width="400" alt="A plate of Kenyan Pilau spiced rice with meat">
+<img src="images/pilau-kenya.jpg" width="400" alt="A plate of Kenyan Pilau spiced rice with meat">
 
 **Image source:** Dadiesto, [*African pilau dish*](https://commons.wikimedia.org/wiki/File:African_pilau_dish.jpg), CC0 1.0 Public Domain, via Wikimedia Commons
 
